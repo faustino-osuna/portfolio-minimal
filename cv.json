@@ -2,11 +2,11 @@
   "basics": {
     "name": "Luis Faustino Osuna Rivera",
     "label": "Ingeniero en Desarrollo de Software",
-    "image": "https://avatars.githubusercontent.com/u/144746003?v=4",
+    "image": "/fausto.webp",
     "email": "faustino.osunarivera@gmail.com",
     "phone": "+52 667 318 7627",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "url": "",
+    "summary": "Soy un estudiante de último año de Ingeniería en Desarrollo de Software con experiencia laboral como programador especializado en programacion web. disfruto resolver problemas y enfrentar nuevos desafíos. Comprometido con mi crecimiento profesional, estoy emocionado por seguir aprendiendo y contribuir al campo del desarrollo de software.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -18,12 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "faustino-osuna-rivera",
-        "url": "www.linkedin.com/in/faustino-osuna-rivera-791606240"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://linkedin.com/in/faustino-osuna-rivera-791606240"
       },
       {
         "network": "GitHub",
@@ -39,7 +34,7 @@
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "2025-01-01",
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Practicante capacitado para el desarrollo de maquinas virtuales y programacion web orientado a NodeJS y React, en este periodo desarrolle el sistema de alarmas para los correos de la empresa.",
       "highlights": [
         "Started the company"
       ]
@@ -48,9 +43,9 @@
       "name": "PowerSoftec",
       "position": "Programador",
       "url": "",
-      "startDate": "2025-06-01",
+      "startDate": "2025-01-01",
       "endDate": null,
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Programador Frontend Jr. con metodologia agil en el flujo de trabajo con el equipo asignado. En este periodo se esta realizando el sistema punto de venta para varias sucursales.",
       "highlights": [
         "Started the company"
       ]
@@ -175,6 +170,27 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "ApiRest"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "ApiRest"
+      ]
     }
   ],
   "languages": [
@@ -212,56 +228,17 @@
       "url": "https://mars.codes"
     },
     {
-      "name": "AdventJS",
+      "name": "Punto de Venta",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Sistema de cobro a clientes para sucursales con pago efectivo y tarjeta, consumiendo los productos mediante api de SAP, guardado de clientes, facturacion y control de multiples ventas",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "VueJS",
+        "En desarrollo"
       ],
       "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
