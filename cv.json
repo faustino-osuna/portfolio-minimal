@@ -31,7 +31,7 @@
     {
       "name": "PowerHost",
       "position": "Practicante",
-      "url": "",
+      "url": "https://www.powerhost.com.mx/",
       "startDate": "2024-01-01",
       "endDate": "2025-01-01",
       "summary": "Practicante capacitado para el desarrollo de maquinas virtuales y programacion web orientado a NodeJS y React, en este periodo desarrolle el sistema de alarmas para los correos de la empresa.",
@@ -42,7 +42,7 @@
     {
       "name": "PowerSoftec",
       "position": "Programador",
-      "url": "",
+      "url": "https://powersoftec.com/",
       "startDate": "2025-01-01",
       "endDate": null,
       "summary": "Programador Frontend Jr. con metodologia agil en el flujo de trabajo con el equipo asignado. En este periodo se esta realizando el sistema punto de venta para varias sucursales.",
@@ -64,7 +64,7 @@
   }],
   "education": [{
     "institution": "Universidad Tecmilenio",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "url": "",
     "area": "Ingeniero en Desarrollo de Software",
     "studyType": "Bachelor",
     "startDate": "2019-01-01",
@@ -225,7 +225,8 @@
         "IMAP",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "",
+      "github": ""
     },
     {
       "name": "Punto de Venta",
@@ -238,7 +239,8 @@
         "VueJS",
         "En desarrollo"
       ],
-      "url": "https://adventjs.dev"
+      "url": "",
+      "github": ""
     }
   ]
 }
