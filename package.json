@@ -2,7 +2,6 @@
   "name": "portfolio-json",
   "type": "module",
   "version": "0.0.1",
-  "packageManager": "pnpm@6.0.2",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
